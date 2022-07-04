@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T09:04:27.815Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="3QhxG8hSuVjZzDOliEjk" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-04T09:04:46.231Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="m6qXbAkWn4rs303rrrb4" version="20.0.4" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="2842" dy="2562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="4013" dy="3198" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -760,7 +760,7 @@
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1998" value="Atlantis" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
           <mxGeometry x="3880" y="245.4999999999999" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RiJoN2eTmRhTmO86q6G4-2000" value="" style="curved=1;endArrow=classic;html=1;fontFamily=Helvetica;fontSize=15;fontColor=#000000;exitX=1;exitY=0;exitDx=0;exitDy=0;strokeColor=#00CC00;strokeWidth=4;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RiJoN2eTmRhTmO86q6G4-1901" target="RiJoN2eTmRhTmO86q6G4-2001">
+        <mxCell id="RiJoN2eTmRhTmO86q6G4-2000" value="" style="curved=1;endArrow=classic;html=1;fontFamily=Helvetica;fontSize=15;fontColor=#000000;exitX=1;exitY=0;exitDx=0;exitDy=0;strokeColor=#00CC00;strokeWidth=4;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RiJoN2eTmRhTmO86q6G4-1901" target="RiJoN2eTmRhTmO86q6G4-2001">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1320" y="110" as="sourcePoint" />
             <mxPoint x="1310" y="-670" as="targetPoint" />
@@ -770,11 +770,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RiJoN2eTmRhTmO86q6G4-2003" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;startArrow=classic;startFill=0;endArrow=classic;endFill=1;exitX=1;exitY=0;exitDx=0;exitDy=0;strokeColor=#2F5B7C;strokeWidth=3;labelBackgroundColor=none;rounded=0;shadow=0;" edge="1" parent="1" source="RiJoN2eTmRhTmO86q6G4-2001" target="RiJoN2eTmRhTmO86q6G4-2002">
+        <mxCell id="RiJoN2eTmRhTmO86q6G4-2003" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;startArrow=classic;startFill=0;endArrow=classic;endFill=1;exitX=1;exitY=0;exitDx=0;exitDy=0;strokeColor=#2F5B7C;strokeWidth=3;labelBackgroundColor=none;rounded=0;shadow=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RiJoN2eTmRhTmO86q6G4-2001" target="RiJoN2eTmRhTmO86q6G4-2002">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-2001" value="In the Air" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#2F5B7C;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="-750" width="150" height="60" as="geometry" />
+          <mxGeometry x="1310" y="-740" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-2006" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;startArrow=classic;startFill=0;endArrow=classic;endFill=1;labelBackgroundColor=none;rounded=0;strokeColor=#2F5B7C;shadow=0;strokeWidth=3;" edge="1" parent="1" source="RiJoN2eTmRhTmO86q6G4-2002" target="RiJoN2eTmRhTmO86q6G4-2005">
           <mxGeometry relative="1" as="geometry" />
@@ -786,16 +786,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-2002" value="In the Air" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#2F5B7C;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="1460" y="-1070" width="150" height="60" as="geometry" />
+          <mxGeometry x="1560" y="-1070" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-2005" value="Plane of Time" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#2F5B7C;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="1690" y="-1070" width="150" height="60" as="geometry" />
+          <mxGeometry x="1790" y="-1070" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-2007" value="Astral/Githyanki" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#2F5B7C;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="1460" y="-1210" width="150" height="60" as="geometry" />
+          <mxGeometry x="1560" y="-1210" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-2009" value="Single Shire room that&lt;br&gt;leads through vortex&lt;br&gt;to Elemental Plane&lt;br&gt;of Air, for&lt;br&gt;some reason" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#2F5B7C;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="-1105" width="250" height="130" as="geometry" />
+          <mxGeometry x="1200" y="-1105" width="250" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
