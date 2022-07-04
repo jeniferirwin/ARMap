@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T09:28:21.735Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="PdyDIpYL3AOeyIdv6cSS" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-04T09:28:58.306Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="kMxIsc6mCaYME8jsSitz" version="20.0.4" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2947" dy="3446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -91,6 +91,9 @@
         <mxCell id="RiJoN2eTmRhTmO86q6G4-2051" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;startArrow=classic;startFill=0;endArrow=classic;endFill=1;labelBackgroundColor=none;rounded=0;strokeColor=#2F5B7C;shadow=0;strokeWidth=3;" edge="1" parent="1" source="RiJoN2eTmRhTmO86q6G4-1795" target="RiJoN2eTmRhTmO86q6G4-2050">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="RiJoN2eTmRhTmO86q6G4-2071" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;startArrow=classic;startFill=0;endArrow=classic;endFill=1;labelBackgroundColor=none;rounded=0;strokeColor=#2F5B7C;shadow=0;strokeWidth=3;" edge="1" parent="1" source="RiJoN2eTmRhTmO86q6G4-1795" target="RiJoN2eTmRhTmO86q6G4-2070">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1795" value="Moria" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
           <mxGeometry x="1250" y="164.4999999999999" width="150" height="60" as="geometry" />
         </mxCell>
@@ -101,7 +104,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1798" value="Eastern Road&lt;br&gt;(Miden&#39;nir)" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="383.9999999999999" width="150" height="60" as="geometry" />
+          <mxGeometry x="1624.5" y="383.9999999999999" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1801" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;strokeColor=#2F5B7C;strokeWidth=3;shape=connector;jumpStyle=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RiJoN2eTmRhTmO86q6G4-1901" target="1771">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -173,21 +176,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1814" value="Forest of Bandits" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="229.9999999999999" width="150" height="60" as="geometry" />
+          <mxGeometry x="1624.5" y="229.9999999999999" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1815" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;strokeColor=#2F5B7C;strokeWidth=3;shape=connector;jumpStyle=none;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RiJoN2eTmRhTmO86q6G4-1798" target="RiJoN2eTmRhTmO86q6G4-1814">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1483" y="423.9999999999999" as="sourcePoint" />
-            <mxPoint x="1568" y="423.9999999999999" as="targetPoint" />
+            <mxPoint x="1547.5" y="423.9999999999999" as="sourcePoint" />
+            <mxPoint x="1632.5" y="423.9999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1816" value="Divided Souls" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="1771" y="229.9999999999999" width="150" height="60" as="geometry" />
+          <mxGeometry x="1835.5" y="229.9999999999999" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1817" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;strokeColor=#2F5B7C;strokeWidth=3;shape=connector;jumpStyle=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RiJoN2eTmRhTmO86q6G4-1814" target="RiJoN2eTmRhTmO86q6G4-1816">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1645" y="392" as="sourcePoint" />
-            <mxPoint x="1645" y="302" as="targetPoint" />
+            <mxPoint x="1709.5" y="392" as="sourcePoint" />
+            <mxPoint x="1709.5" y="302" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1818" value="Gnome Village" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
@@ -977,6 +980,15 @@
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-2068" value="Korrag" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
           <mxGeometry x="1710" y="-395.5000000000001" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RiJoN2eTmRhTmO86q6G4-2073" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;startArrow=classic;startFill=0;endArrow=classic;endFill=1;labelBackgroundColor=none;rounded=0;strokeColor=#2F5B7C;shadow=0;strokeWidth=3;" edge="1" parent="1" source="RiJoN2eTmRhTmO86q6G4-2070" target="RiJoN2eTmRhTmO86q6G4-2072">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RiJoN2eTmRhTmO86q6G4-2070" value="Dwarven Kingdom" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="164.4999999999999" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RiJoN2eTmRhTmO86q6G4-2072" value="Day Care" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="304.4999999999999" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
