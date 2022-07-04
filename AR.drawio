@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T09:04:46.231Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="m6qXbAkWn4rs303rrrb4" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-04T09:11:16.610Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="_0vajAcuk8_jcW3Fk9kb" version="20.0.4" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="4013" dy="3198" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3200" dy="2757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,19 +8,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1749" value="South Midgaard&lt;br&gt;Zoo&lt;br&gt;Tree of Aviation&lt;br&gt;Gangland&lt;br&gt;Redferne&lt;br&gt;Graveyard" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#2F5B7C;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;align=center;fontStyle=1;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="472.5" y="575.5" width="195" height="194.5" as="geometry" />
+          <mxGeometry x="472.5" y="550" width="195" height="194.5" as="geometry" />
+        </mxCell>
+        <mxCell id="RiJoN2eTmRhTmO86q6G4-2012" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;startArrow=classic;startFill=0;endArrow=classic;endFill=1;labelBackgroundColor=none;rounded=0;strokeColor=#2F5B7C;shadow=0;strokeWidth=3;" edge="1" parent="1" source="1753" target="RiJoN2eTmRhTmO86q6G4-2011">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1753" value="Haon Dor" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#BD9700;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="-70" y="381" width="150" height="60" as="geometry" />
+          <mxGeometry x="-410" y="376.5" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1754" value="Drakyri" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#BD9700;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="-70" y="520" width="150" height="60" as="geometry" />
+          <mxGeometry x="-230" y="601" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1881" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;startArrow=classic;startFill=0;endArrow=classic;endFill=1;labelBackgroundColor=none;rounded=0;strokeColor=#2F5B7C;shadow=0;strokeWidth=3;" edge="1" parent="1" source="1755" target="RiJoN2eTmRhTmO86q6G4-1880">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1755" value="Camelot" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#BD9700;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="-650" y="381" width="150" height="60" as="geometry" />
+          <mxGeometry x="-990" y="376.5" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1923" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;startArrow=classic;startFill=0;endArrow=classic;endFill=1;labelBackgroundColor=none;rounded=0;strokeColor=#2F5B7C;shadow=0;strokeWidth=3;exitX=0.193;exitY=0.982;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1760" target="RiJoN2eTmRhTmO86q6G4-1922">
           <mxGeometry relative="1" as="geometry" />
@@ -62,7 +65,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1788" value="Haon Dor" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#BD9700;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="-370" y="381" width="100" height="60" as="geometry" />
+          <mxGeometry x="-710" y="376.5" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1955" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;startArrow=classic;startFill=0;endArrow=classic;endFill=1;labelBackgroundColor=none;rounded=0;strokeColor=#2F5B7C;shadow=0;strokeWidth=3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RiJoN2eTmRhTmO86q6G4-1792" target="RiJoN2eTmRhTmO86q6G4-1996">
           <mxGeometry relative="1" as="geometry" />
@@ -109,10 +112,10 @@
             <mxPoint x="590" y="292" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RiJoN2eTmRhTmO86q6G4-1805" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;strokeColor=#2F5B7C;strokeWidth=3;shape=connector;jumpStyle=none;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1754" target="1753">
+        <mxCell id="RiJoN2eTmRhTmO86q6G4-1805" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;strokeColor=#2F5B7C;strokeWidth=3;shape=connector;jumpStyle=none;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1754" target="RiJoN2eTmRhTmO86q6G4-2011">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="320" y="404" as="sourcePoint" />
-            <mxPoint x="320" y="297.5" as="targetPoint" />
+            <mxPoint x="-20" y="399.5" as="sourcePoint" />
+            <mxPoint x="-20" y="293" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1806" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;strokeColor=#2F5B7C;strokeWidth=3;shape=connector;jumpStyle=none;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1760" target="1749">
@@ -150,14 +153,14 @@
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1812" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;strokeColor=#2F5B7C;strokeWidth=3;shape=connector;jumpStyle=none;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1753" target="RiJoN2eTmRhTmO86q6G4-1788">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-139" y="409.5" as="sourcePoint" />
-            <mxPoint x="-270" y="409.5" as="targetPoint" />
+            <mxPoint x="-479" y="405" as="sourcePoint" />
+            <mxPoint x="-610" y="405" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1813" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;strokeColor=#2F5B7C;strokeWidth=3;shape=connector;jumpStyle=none;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RiJoN2eTmRhTmO86q6G4-1788" target="1755">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-379" y="485.5" as="sourcePoint" />
-            <mxPoint x="-510" y="485.5" as="targetPoint" />
+            <mxPoint x="-719" y="481" as="sourcePoint" />
+            <mxPoint x="-850" y="481" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1814" value="Forest of Bandits" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
@@ -386,7 +389,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1868" value="Haon Dor" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#BD9700;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="-370" y="521" width="100" height="60" as="geometry" />
+          <mxGeometry x="-710" y="516.5" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1873" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;startArrow=classic;startFill=0;endArrow=classic;endFill=1;labelBackgroundColor=none;rounded=0;strokeColor=#2F5B7C;shadow=0;strokeWidth=3;" edge="1" parent="1" source="RiJoN2eTmRhTmO86q6G4-1870" target="RiJoN2eTmRhTmO86q6G4-1872">
           <mxGeometry relative="1" as="geometry" />
@@ -395,31 +398,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1870" value="Haon Dor" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#BD9700;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="-630" y="520" width="100" height="60" as="geometry" />
+          <mxGeometry x="-970" y="515.5" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1875" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;startArrow=classic;startFill=0;endArrow=classic;endFill=1;labelBackgroundColor=none;rounded=0;strokeColor=#2F5B7C;shadow=0;strokeWidth=3;" edge="1" parent="1" source="RiJoN2eTmRhTmO86q6G4-1872" target="RiJoN2eTmRhTmO86q6G4-1874">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1872" value="Haon Dor" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#BD9700;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="-810" y="520" width="100" height="60" as="geometry" />
+          <mxGeometry x="-1150" y="515.5" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1874" value="Arachnos" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#BD9700;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="-810" y="380" width="100" height="60" as="geometry" />
+          <mxGeometry x="-1150" y="375.5" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1879" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;startArrow=classic;startFill=0;endArrow=classic;endFill=1;labelBackgroundColor=none;rounded=0;strokeColor=#2F5B7C;shadow=0;strokeWidth=3;" edge="1" parent="1" source="RiJoN2eTmRhTmO86q6G4-1876" target="RiJoN2eTmRhTmO86q6G4-1878">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1876" value="Haon Dor" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#BD9700;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="-630" y="660" width="100" height="60" as="geometry" />
+          <mxGeometry x="-970" y="655.5" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1878" value="Swamp" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#BD9700;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="-630" y="800" width="100" height="60" as="geometry" />
+          <mxGeometry x="-970" y="795.5" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1883" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;startArrow=classic;startFill=0;endArrow=classic;endFill=1;labelBackgroundColor=none;rounded=0;strokeColor=#2F5B7C;shadow=0;strokeWidth=3;" edge="1" parent="1" source="RiJoN2eTmRhTmO86q6G4-1880" target="RiJoN2eTmRhTmO86q6G4-1882">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1880" value="Camelot" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#BD9700;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="-650" y="-300" width="150" height="60" as="geometry" />
+          <mxGeometry x="-990" y="-304.5" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1887" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;startArrow=classic;startFill=0;endArrow=classic;endFill=1;labelBackgroundColor=none;rounded=0;strokeColor=#2F5B7C;shadow=0;strokeWidth=3;" edge="1" parent="1" source="RiJoN2eTmRhTmO86q6G4-1882" target="RiJoN2eTmRhTmO86q6G4-1886">
           <mxGeometry relative="1" as="geometry" />
@@ -428,10 +431,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1882" value="Camelot" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#BD9700;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="-420" y="-300" width="150" height="60" as="geometry" />
+          <mxGeometry x="-760" y="-304.5" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1886" value="Southern Camelot" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#BD9700;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="-420" y="-160" width="150" height="60" as="geometry" />
+          <mxGeometry x="-760" y="-164.5" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1892" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;startArrow=classic;startFill=0;endArrow=classic;endFill=1;labelBackgroundColor=none;rounded=0;strokeColor=#2F5B7C;shadow=0;strokeWidth=3;" edge="1" parent="1" source="RiJoN2eTmRhTmO86q6G4-1889" target="RiJoN2eTmRhTmO86q6G4-1891">
           <mxGeometry relative="1" as="geometry" />
@@ -440,10 +443,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1889" value="Living Forest" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#BD9700;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="-420" y="-440" width="150" height="60" as="geometry" />
+          <mxGeometry x="-760" y="-444.5" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1891" value="Troll Cavern" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#BD9700;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="-440" width="150" height="60" as="geometry" />
+          <mxGeometry x="-530" y="-444.5" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1893" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;strokeColor=#2F5B7C;strokeWidth=3;shape=connector;jumpStyle=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RiJoN2eTmRhTmO86q6G4-1891" target="1767">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -452,7 +455,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1894" value="HellGate Keep" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#BD9700;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="-420" y="-580" width="150" height="60" as="geometry" />
+          <mxGeometry x="-760" y="-584.5" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1900" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;startArrow=classic;startFill=0;endArrow=classic;endFill=1;labelBackgroundColor=none;rounded=0;strokeColor=#2F5B7C;shadow=0;strokeWidth=3;" edge="1" parent="1" source="RiJoN2eTmRhTmO86q6G4-1896" target="RiJoN2eTmRhTmO86q6G4-1899">
           <mxGeometry relative="1" as="geometry" />
@@ -599,7 +602,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1944" value="Landareth" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="3070" y="665.4999999999999" width="150" height="60" as="geometry" />
+          <mxGeometry x="3070" y="759.9999999999999" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1946" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;startArrow=classic;startFill=0;endArrow=classic;endFill=1;labelBackgroundColor=none;rounded=0;strokeColor=#2F5B7C;shadow=0;strokeWidth=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RiJoN2eTmRhTmO86q6G4-1938" target="RiJoN2eTmRhTmO86q6G4-1792">
           <mxGeometry relative="1" as="geometry">
@@ -796,6 +799,41 @@
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-2009" value="Single Shire room that&lt;br&gt;leads through vortex&lt;br&gt;to Elemental Plane&lt;br&gt;of Air, for&lt;br&gt;some reason" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#2F5B7C;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
           <mxGeometry x="1200" y="-1105" width="250" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="RiJoN2eTmRhTmO86q6G4-2014" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;startArrow=classic;startFill=0;endArrow=classic;endFill=1;labelBackgroundColor=none;rounded=0;strokeColor=#2F5B7C;shadow=0;strokeWidth=3;" edge="1" parent="1" source="RiJoN2eTmRhTmO86q6G4-2011" target="RiJoN2eTmRhTmO86q6G4-2013">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RiJoN2eTmRhTmO86q6G4-2011" value="Haon Dor" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#BD9700;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="516.5" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RiJoN2eTmRhTmO86q6G4-2013" value="Haon Dor&lt;br&gt;Prot Clanhall&lt;br&gt;Rag Clanhall" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#BD9700;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="656.5" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RiJoN2eTmRhTmO86q6G4-2015" value="Elvandar" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#BD9700;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="850" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RiJoN2eTmRhTmO86q6G4-2016" value="Sea of Death" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#BD9700;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="110" y="890" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RiJoN2eTmRhTmO86q6G4-2017" value="" style="curved=1;endArrow=classic;html=1;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=none;rounded=0;strokeColor=#2F5B7C;startArrow=classic;shadow=0;strokeWidth=3;" edge="1" parent="1" source="RiJoN2eTmRhTmO86q6G4-2016" target="RiJoN2eTmRhTmO86q6G4-1901">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="600" as="sourcePoint" />
+            <mxPoint x="220" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="600" />
+              <mxPoint x="230" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RiJoN2eTmRhTmO86q6G4-2019" value="" style="curved=1;endArrow=classic;html=1;fontFamily=Helvetica;fontSize=15;fontColor=#000000;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#33FFFF;strokeWidth=5;" edge="1" parent="1" source="RiJoN2eTmRhTmO86q6G4-2015" target="RiJoN2eTmRhTmO86q6G4-1792">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-30" y="850" as="sourcePoint" />
+            <mxPoint x="3510" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2860" y="690" />
+              <mxPoint x="3550" y="650" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
