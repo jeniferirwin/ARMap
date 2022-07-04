@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T10:47:38.914Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="XGP7mlOQnvfIe3_pd1J5" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-04T10:48:31.273Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="RDaqrKF3Rvw-MMShHEC0" version="20.0.4" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="4369" dy="3584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3151" dy="2922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -667,12 +667,6 @@
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1954" value="West Great Ocean" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;fillColor=#12aab5;strokeColor=none;shadow=0;labelBackgroundColor=none;strokeWidth=3;spacing=5;fontStyle=1;arcSize=7;" vertex="1" parent="1">
           <mxGeometry x="4240" y="385.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RiJoN2eTmRhTmO86q6G4-1963" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=15;fontColor=#000000;startArrow=classic;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="RiJoN2eTmRhTmO86q6G4-1956" target="RiJoN2eTmRhTmO86q6G4-1962">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="RiJoN2eTmRhTmO86q6G4-1964" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=15;fontColor=#000000;startArrow=classic;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="RiJoN2eTmRhTmO86q6G4-1956" target="RiJoN2eTmRhTmO86q6G4-1962">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1956" value="West Great Ocean" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;fillColor=#12aab5;strokeColor=none;shadow=0;labelBackgroundColor=none;strokeWidth=3;spacing=5;fontStyle=1;arcSize=7;" vertex="1" parent="1">
           <mxGeometry x="4440" y="385.5" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1030,6 +1024,15 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="4320" y="1100" as="sourcePoint" />
             <mxPoint x="4320" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RiJoN2eTmRhTmO86q6G4-2087" value="Pirate Lords?" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;fillColor=#12aab5;strokeColor=none;shadow=0;labelBackgroundColor=none;strokeWidth=3;spacing=5;fontStyle=1;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="4440" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RiJoN2eTmRhTmO86q6G4-2088" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;startArrow=classic;startFill=0;endArrow=classic;endFill=1;labelBackgroundColor=none;rounded=0;strokeColor=#2F5B7C;shadow=0;strokeWidth=3;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RiJoN2eTmRhTmO86q6G4-1956" target="RiJoN2eTmRhTmO86q6G4-2087">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4370" y="425.5" as="sourcePoint" />
+            <mxPoint x="4450" y="425.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
