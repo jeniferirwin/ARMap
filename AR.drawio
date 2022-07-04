@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T07:18:36.592Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="tlplu8IlFCjACPfipHo5" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-04T07:27:39.240Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="t37f7D9WbUGDuYYKwMxa" version="20.0.4" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="2150" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2307" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,37 +26,37 @@
           <mxGeometry x="495" y="50.5" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1771" value="Eastern Road&lt;br&gt;(Miden&#39;nir)" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="780" y="383.9999999999999" width="150" height="60" as="geometry" />
+          <mxGeometry x="1070" y="383.9999999999999" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1772" value="Thalos" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="780" y="524.5" width="150" height="60" as="geometry" />
+          <mxGeometry x="1070" y="560" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1788" value="Haon Dor" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#BD9700;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
           <mxGeometry x="-90" y="385.5" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1792" value="New Thalos" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;fillColor=#12aab5;strokeColor=none;shadow=0;labelBackgroundColor=none;strokeWidth=3;spacing=5;fontStyle=1;arcSize=7;" vertex="1" parent="1">
-          <mxGeometry x="1980" y="385.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="2270" y="385.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1793" value="Eastern Road&lt;br&gt;(Miden&#39;nir)" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="1680" y="385.4999999999999" width="150" height="60" as="geometry" />
+          <mxGeometry x="1970" y="385.4999999999999" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1794" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;strokeColor=#2F5B7C;strokeWidth=3;shape=connector;jumpStyle=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RiJoN2eTmRhTmO86q6G4-1793" target="RiJoN2eTmRhTmO86q6G4-1792">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1770" y="421.25" as="sourcePoint" />
-            <mxPoint x="1956" y="419.75" as="targetPoint" />
+            <mxPoint x="2060" y="421.25" as="sourcePoint" />
+            <mxPoint x="2246" y="419.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1795" value="Moria" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="780" y="164.4999999999999" width="150" height="60" as="geometry" />
+          <mxGeometry x="1070" y="164.4999999999999" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1796" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;strokeColor=#2F5B7C;strokeWidth=3;shape=connector;jumpStyle=none;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RiJoN2eTmRhTmO86q6G4-1795" target="1771">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="910" y="324.5" as="sourcePoint" />
-            <mxPoint x="860" y="384.5" as="targetPoint" />
+            <mxPoint x="1200" y="324.5" as="sourcePoint" />
+            <mxPoint x="1150" y="384.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1798" value="Eastern Road&lt;br&gt;(Miden&#39;nir)" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="1019" y="383.9999999999999" width="150" height="60" as="geometry" />
+          <mxGeometry x="1309" y="383.9999999999999" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1801" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;strokeColor=#2F5B7C;strokeWidth=3;shape=connector;jumpStyle=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1749" target="1771">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -94,31 +94,31 @@
             <mxPoint x="610" y="312" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RiJoN2eTmRhTmO86q6G4-1807" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;strokeColor=#2F5B7C;strokeWidth=3;shape=connector;jumpStyle=none;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1772" target="1771">
+        <mxCell id="RiJoN2eTmRhTmO86q6G4-1807" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;strokeColor=#2F5B7C;strokeWidth=3;shape=connector;jumpStyle=none;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="RiJoN2eTmRhTmO86q6G4-1832" target="1772">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="620" y="428.5" as="sourcePoint" />
-            <mxPoint x="620" y="322" as="targetPoint" />
+            <mxPoint x="910" y="428.5" as="sourcePoint" />
+            <mxPoint x="910" y="322" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1808" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;strokeColor=#2F5B7C;strokeWidth=3;shape=connector;jumpStyle=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1771" target="RiJoN2eTmRhTmO86q6G4-1798">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="630" y="438.5" as="sourcePoint" />
-            <mxPoint x="630" y="332" as="targetPoint" />
+            <mxPoint x="920" y="438.5" as="sourcePoint" />
+            <mxPoint x="920" y="332" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1809" value="Eastern Road&lt;br&gt;(Miden&#39;nir)" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="1430" y="383.9999999999999" width="150" height="60" as="geometry" />
+          <mxGeometry x="1720" y="383.9999999999999" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1810" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;strokeColor=#2F5B7C;strokeWidth=3;shape=connector;jumpStyle=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RiJoN2eTmRhTmO86q6G4-1798" target="RiJoN2eTmRhTmO86q6G4-1809">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="942" y="423.9999999999999" as="sourcePoint" />
-            <mxPoint x="1027" y="423.9999999999999" as="targetPoint" />
+            <mxPoint x="1232" y="423.9999999999999" as="sourcePoint" />
+            <mxPoint x="1317" y="423.9999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1811" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;strokeColor=#2F5B7C;strokeWidth=3;shape=connector;jumpStyle=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RiJoN2eTmRhTmO86q6G4-1809" target="RiJoN2eTmRhTmO86q6G4-1793">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1142" y="433.9999999999999" as="sourcePoint" />
-            <mxPoint x="1227" y="433.9999999999999" as="targetPoint" />
+            <mxPoint x="1432" y="433.9999999999999" as="sourcePoint" />
+            <mxPoint x="1517" y="433.9999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1812" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;strokeColor=#2F5B7C;strokeWidth=3;shape=connector;jumpStyle=none;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1753" target="RiJoN2eTmRhTmO86q6G4-1788">
@@ -134,84 +134,93 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1814" value="Forest of Bandits" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="1019" y="229.9999999999999" width="150" height="60" as="geometry" />
+          <mxGeometry x="1309" y="229.9999999999999" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1815" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;strokeColor=#2F5B7C;strokeWidth=3;shape=connector;jumpStyle=none;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RiJoN2eTmRhTmO86q6G4-1798" target="RiJoN2eTmRhTmO86q6G4-1814">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="942" y="423.9999999999999" as="sourcePoint" />
-            <mxPoint x="1027" y="423.9999999999999" as="targetPoint" />
+            <mxPoint x="1232" y="423.9999999999999" as="sourcePoint" />
+            <mxPoint x="1317" y="423.9999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1816" value="Divided Souls" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="229.9999999999999" width="150" height="60" as="geometry" />
+          <mxGeometry x="1520" y="229.9999999999999" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1817" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;strokeColor=#2F5B7C;strokeWidth=3;shape=connector;jumpStyle=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RiJoN2eTmRhTmO86q6G4-1814" target="RiJoN2eTmRhTmO86q6G4-1816">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1104" y="392" as="sourcePoint" />
-            <mxPoint x="1104" y="302" as="targetPoint" />
+            <mxPoint x="1394" y="392" as="sourcePoint" />
+            <mxPoint x="1394" y="302" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1818" value="Gnome Village" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="1430" y="499.9999999999999" width="150" height="60" as="geometry" />
+          <mxGeometry x="1720" y="499.9999999999999" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1819" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;strokeColor=#2F5B7C;strokeWidth=3;shape=connector;jumpStyle=none;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RiJoN2eTmRhTmO86q6G4-1809" target="RiJoN2eTmRhTmO86q6G4-1818">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1592" y="424" as="sourcePoint" />
-            <mxPoint x="1688" y="425.5" as="targetPoint" />
+            <mxPoint x="1882" y="424" as="sourcePoint" />
+            <mxPoint x="1978" y="425.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1820" value="Orcs&#39; Lair" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="1430" y="630.4999999999999" width="150" height="60" as="geometry" />
+          <mxGeometry x="1720" y="630.4999999999999" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1821" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;strokeColor=#2F5B7C;strokeWidth=3;shape=connector;jumpStyle=none;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RiJoN2eTmRhTmO86q6G4-1818" target="RiJoN2eTmRhTmO86q6G4-1820">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1515" y="455.9999999999998" as="sourcePoint" />
-            <mxPoint x="1515" y="507.9999999999998" as="targetPoint" />
+            <mxPoint x="1805" y="455.9999999999998" as="sourcePoint" />
+            <mxPoint x="1805" y="507.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1822" value="Plains of Blood" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="739.9999999999999" width="150" height="60" as="geometry" />
+          <mxGeometry x="1520" y="739.9999999999999" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1823" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;strokeColor=#2F5B7C;strokeWidth=3;shape=connector;jumpStyle=none;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RiJoN2eTmRhTmO86q6G4-1820" target="RiJoN2eTmRhTmO86q6G4-1822">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1515" y="571.9999999999998" as="sourcePoint" />
-            <mxPoint x="1515" y="638.5" as="targetPoint" />
+            <mxPoint x="1805" y="571.9999999999998" as="sourcePoint" />
+            <mxPoint x="1805" y="638.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1824" value="Holy Grove" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="1680" y="269.9999999999999" width="150" height="60" as="geometry" />
+          <mxGeometry x="1970" y="269.9999999999999" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1825" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;strokeColor=#2F5B7C;strokeWidth=3;shape=connector;jumpStyle=none;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RiJoN2eTmRhTmO86q6G4-1793" target="RiJoN2eTmRhTmO86q6G4-1824">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1842.0000000000005" y="425.4999999999999" as="sourcePoint" />
-            <mxPoint x="1990" y="425.5" as="targetPoint" />
+            <mxPoint x="2132.0000000000005" y="425.4999999999999" as="sourcePoint" />
+            <mxPoint x="2280" y="425.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1826" value="Old Thalos" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="1890" y="269.9999999999999" width="150" height="60" as="geometry" />
+          <mxGeometry x="2180" y="269.9999999999999" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1827" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;strokeColor=#2F5B7C;strokeWidth=3;shape=connector;jumpStyle=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RiJoN2eTmRhTmO86q6G4-1824" target="RiJoN2eTmRhTmO86q6G4-1826">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1765" y="393.4999999999998" as="sourcePoint" />
-            <mxPoint x="1765" y="341.9999999999999" as="targetPoint" />
+            <mxPoint x="2055" y="393.4999999999998" as="sourcePoint" />
+            <mxPoint x="2055" y="341.9999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1828" value="Nirvana" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="1890" y="139.9999999999999" width="150" height="60" as="geometry" />
+          <mxGeometry x="2180" y="139.9999999999999" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1829" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;strokeColor=#2F5B7C;strokeWidth=3;shape=connector;jumpStyle=none;entryX=0.013;entryY=0.932;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="RiJoN2eTmRhTmO86q6G4-1824" target="RiJoN2eTmRhTmO86q6G4-1828">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1842.0000000000005" y="309.9999999999999" as="sourcePoint" />
-            <mxPoint x="1898.0000000000005" y="309.9999999999999" as="targetPoint" />
+            <mxPoint x="2132.0000000000005" y="309.9999999999999" as="sourcePoint" />
+            <mxPoint x="2188.0000000000005" y="309.9999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1830" value="Hawken Village" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="1470" y="269.9999999999999" width="150" height="60" as="geometry" />
+          <mxGeometry x="1760" y="269.9999999999999" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1831" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;strokeColor=#2F5B7C;strokeWidth=3;shape=connector;jumpStyle=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RiJoN2eTmRhTmO86q6G4-1830" target="RiJoN2eTmRhTmO86q6G4-1824">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1842.0000000000005" y="278" as="sourcePoint" />
-            <mxPoint x="1900.0020000000004" y="207.6479999999999" as="targetPoint" />
+            <mxPoint x="2132.0000000000005" y="278" as="sourcePoint" />
+            <mxPoint x="2190.0020000000004" y="207.6479999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RiJoN2eTmRhTmO86q6G4-1832" value="Drow City" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="860" y="710" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RiJoN2eTmRhTmO86q6G4-1833" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;strokeColor=#2F5B7C;strokeWidth=3;shape=connector;jumpStyle=none;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1772" target="1771">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1072" y="678" as="sourcePoint" />
+            <mxPoint x="1098" y="642.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
