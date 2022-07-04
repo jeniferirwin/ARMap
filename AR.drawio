@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T09:04:09.472Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="9e15gIAtGgoz0ptQoxGF" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-04T09:04:17.880Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="inV4vlLypWJRZb__pYCG" version="20.0.4" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2842" dy="2562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -794,7 +794,7 @@
         <mxCell id="RiJoN2eTmRhTmO86q6G4-2007" value="Astral/Githyanki" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#2F5B7C;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
           <mxGeometry x="1490" y="-1190" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RiJoN2eTmRhTmO86q6G4-2009" value="Shire room that&lt;br&gt;leads through vortex&lt;br&gt;to Elemental Plane&lt;br&gt;of Air, for&lt;br&gt;some reason" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#2F5B7C;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+        <mxCell id="RiJoN2eTmRhTmO86q6G4-2009" value="Single Shire room that&lt;br&gt;leads through vortex&lt;br&gt;to Elemental Plane&lt;br&gt;of Air, for&lt;br&gt;some reason" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#2F5B7C;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
           <mxGeometry x="1130" y="-1085" width="250" height="130" as="geometry" />
         </mxCell>
       </root>
