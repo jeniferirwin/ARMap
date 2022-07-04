@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T08:55:08.823Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="gfOJYRvIypAfHJxkGaic" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-04T08:56:12.334Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="8elu1RW9r7lX1Eqaalzv" version="20.0.4" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2666" dy="1640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -70,8 +70,8 @@
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1969" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;startArrow=classic;startFill=0;endArrow=classic;endFill=1;labelBackgroundColor=none;rounded=0;strokeColor=#2F5B7C;shadow=0;strokeWidth=3;" edge="1" parent="1" source="RiJoN2eTmRhTmO86q6G4-1792" target="RiJoN2eTmRhTmO86q6G4-1968">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RiJoN2eTmRhTmO86q6G4-1792" value="New Thalos&lt;br&gt;Bazaar&lt;br&gt;Council Chambers" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;fillColor=#12aab5;strokeColor=none;shadow=0;labelBackgroundColor=none;strokeWidth=3;spacing=5;fontStyle=1;arcSize=7;" vertex="1" parent="1">
-          <mxGeometry x="3500" y="384" width="160" height="60" as="geometry" />
+        <mxCell id="RiJoN2eTmRhTmO86q6G4-1792" value="New Thalos&lt;br&gt;Bazaar&lt;br&gt;Council Chambers&lt;br&gt;Citadel of the Light" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;fillColor=#12aab5;strokeColor=none;shadow=0;labelBackgroundColor=none;strokeWidth=3;spacing=5;fontStyle=1;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="3500" y="350" width="160" height="130" as="geometry" />
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1929" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;startArrow=classic;startFill=0;endArrow=classic;endFill=1;labelBackgroundColor=none;rounded=0;strokeColor=#2F5B7C;shadow=0;strokeWidth=3;" edge="1" parent="1" source="RiJoN2eTmRhTmO86q6G4-1793" target="RiJoN2eTmRhTmO86q6G4-1928">
           <mxGeometry relative="1" as="geometry" />
