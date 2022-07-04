@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T09:17:05.793Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="5kwdLM1M4-S9vxV8_ZSm" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-04T09:19:29.841Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="-f10TIGumkcDhFxDceSP" version="20.0.4" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="4724" dy="3584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2842" dy="2562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -475,6 +475,9 @@
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1900" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;startArrow=classic;startFill=0;endArrow=classic;endFill=1;labelBackgroundColor=none;rounded=0;strokeColor=#2F5B7C;shadow=0;strokeWidth=3;" edge="1" parent="1" source="RiJoN2eTmRhTmO86q6G4-1896" target="RiJoN2eTmRhTmO86q6G4-1899">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="RiJoN2eTmRhTmO86q6G4-2042" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=15;fontColor=#000000;startArrow=classic;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="RiJoN2eTmRhTmO86q6G4-1896" target="RiJoN2eTmRhTmO86q6G4-2041">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-1896" value="Plains" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#F08705;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
           <mxGeometry x="495" y="150" width="150" height="60" as="geometry" />
         </mxCell>
@@ -885,6 +888,9 @@
         </mxCell>
         <mxCell id="RiJoN2eTmRhTmO86q6G4-2039" value="Druid Clan" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#BD9700;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
           <mxGeometry x="-584" y="-10" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RiJoN2eTmRhTmO86q6G4-2041" value="Mirkwood" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#F08705;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="265" y="150" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
